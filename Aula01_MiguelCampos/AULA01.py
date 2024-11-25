@@ -1,0 +1,5 @@
+print("Olá mundo")
+print("Meu nome é Miguel")
+print("Moro na Zona Sul de São Paulo")
+print("Tenho 18 anos de idade")
+print("Faço curso de Técnico em Administração e trabalho na área de Recursos Humanos")
